@@ -1,6 +1,6 @@
 # Excel Formula Debugger
 
-A modern Python GUI tool for analyzing Excel formulas.
+A Python GUI tool for analyzing Excel formulas.
 
 * Built with `tkinter`, this app provides two views:
 
